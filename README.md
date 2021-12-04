@@ -1,5 +1,11 @@
 Python Work Docs
 
+Important!  Before using any files from Data Science later folders please install following modules
+-> numpy
+-> Matplotlib
+-> pandas
+
+
 Basically this repository is for someone who wants to learn python
 This has all the examples with the concepts explained
 This can be used as reference to learn python
