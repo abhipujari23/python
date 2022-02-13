@@ -1,0 +1,42 @@
+** Best viewed in IDE or VS Code
+
+From here this will start getting complicated
+Please make sure you have read and understood basics, data science
+
+Previously we have learned to analyze and visualize data but apart from statistical data
+we didn't really extract any knowledge and we were certainly not able to predict future data
+
+This is where machine learning comes to play
+
+In this series we will dive deep into machine learning and python language
+We will train and apply complex machine learning models and at the end
+you will be able to develop and optimize your own AI suited for your specific tasks
+
+You need to know these things before understanding these concepts:
+* basics and intermediate of python
+* Basic understanding of data science
+*libraries like NumPy, Pandas, Matplotlib
+
+Q. What is Machine Learning?
+==> Machine Learning is the science in which we focus on teaching machines or computers to perform
+certain tasks without being given specific instructions
+We want it to learn how to do the task without explaining it to them
+
+Notice, machine learning and artificial intelligence are not same.
+artificial intelligence(AI) is a broad field and every system that can learn and solve problems might be considered AI
+
+Machine learning is one specific approach to this broad field. In Machine learning the AI does not receive any instructions.
+It isn't static and doesn't follow clear and strict steps to solve the problemd.
+It's dynamic and restructures itself.
+
+###################################################################################
+
+
+
+LOADING DATA
+
+To get started with our code we first need the data that we want to work with.
+Here we use a data set from UCI.
+Link: https://archive.ics.uci.edu/ml/datasets/student+performance
+
+Now we can start coding
